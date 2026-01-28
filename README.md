@@ -2,7 +2,7 @@
 
 ### 💻 Laravel & Vue.js Developer | Full-Stack Engineer
 
-A highly motivated and results-driven Laravel & Vue.js developer with **4+ years of professional experience** in full-stack development.
+A highly motivated and results-driven Laravel & Vue.js developer with experience in full-stack development.
 
 Proven expertise in designing, developing, and deploying **scalable web applications, custom APIs, and third-party integrations**.
 
@@ -38,7 +38,7 @@ Dedicated to writing **secure, maintainable, and high-performance codebases**.
 ## 🚀 Professional Projects
 
 ### 📚 LMS — Learning Management System  
-**May 2021 – November 2025**  
+
 🔗 https://escuela-ray-bolivar-sosa.com/
 
 - Developed & maintained multiple LMS modules using Laravel
@@ -49,7 +49,7 @@ Dedicated to writing **secure, maintainable, and high-performance codebases**.
 ---
 
 ### 🛍 ShopLux — E-commerce Platform  
-**July 2024 – July 2025**
+
 
 - Built a fully-featured Laravel-based e-commerce system
 - Admin panel for products, orders, users, and site settings
@@ -59,7 +59,7 @@ Dedicated to writing **secure, maintainable, and high-performance codebases**.
 ---
 
 ### 📖 EditorialDumas — Crowdfunding Platform  
-**January 2024 – June 2024**  
+ 
 🔗 https://editorialdumas.com/
 
 - Designed & implemented **Laravel RESTful API backend**
@@ -70,7 +70,7 @@ Dedicated to writing **secure, maintainable, and high-performance codebases**.
 ---
 
 ### 🧩 DIC — Client Product Showcase Platform  
-**January 2021 – May 2021**  
+  
 🔗 https://dic.com.pk
 
 - Developed Laravel-based client project
